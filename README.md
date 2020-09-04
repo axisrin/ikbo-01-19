@@ -1,1 +1,1 @@
-Proshin Alexis Vasil'evich
+Прошин Алексей Васильевич
