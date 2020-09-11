@@ -1,0 +1,5 @@
+﻿  aod_community_prac_1.cpp
+C:\Users\ivc6-10\source\repos\aod_community_prac_1\aod_community_prac_1\aod_community_prac_1.cpp(8,6): warning C4101:  temp: неиспользованная локальная переменная
+C:\Users\ivc6-10\source\repos\aod_community_prac_1\aod_community_prac_1\aod_community_prac_1.cpp(68,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ivc6-10\source\repos\aod_community_prac_1\aod_community_prac_1\aod_community_prac_1.cpp(76,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  aod_community_prac_1.vcxproj -> C:\Users\ivc6-10\source\repos\aod_community_prac_1\Debug\aod_community_prac_1.exe
