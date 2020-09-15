@@ -22,7 +22,7 @@ public class Circle extends Shape {
     }
 
     public double getRadius() {
-        return radius;
+        return this.radius;
     }
 
     public void setRadius(double radius) {
