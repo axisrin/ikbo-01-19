@@ -1,9 +1,38 @@
 package com.company;
 
 public abstract class Shape {
-    public void edSheeran()
-    {
-        System.out.println("I'm in love with a shape of you!");
+    protected String color;
+    protected boolean filled;
+    public Shape(){
+        color = "Default";
+        filled = false;
     }
-    abstract void yourShape();
+    public Shape(String color,boolean filled)
+    {
+     this.color = color;
+     this.filled = filled;
+    }
+
+    public String getColor()
+    {
+        return color;
+    }
+    public void setColor(String color)
+    {
+        this.color = color;
+    }
+
+    public boolean isFilled() {
+        return filled;
+    }
+
+    public void setFilled(boolean filled) {
+        this.filled = filled;
+    }
+    public abstract double getArea();
+    public abstract double getPerimeter();
+    public String toString()
+    {
+        return "Hello It's Shape style!!!!";
+    }
 }
